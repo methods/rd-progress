@@ -1,5 +1,5 @@
 var cumulative_flow_data = {
-  "today":"May 10",
+  "today":"May 11",
   "May 01": {
       "Schedule not received":216,
       "Not received, scheduled":0,
@@ -84,6 +84,18 @@ var cumulative_flow_data = {
         "Published": 0,
         "Not being progressed for July": 28
     },
+    "May 10": {
+        "Schedule not received": 8,
+        "Not received, scheduled": 119,
+        "Received, not checked": 55,
+        "Received, In progress": 31,
+        "Ready for upload": 0,
+        "Charts, tables, downloads configuration": 0,
+        "Departmental sign off": 0,
+        "Ready for publication": 0,
+        "Published": 0,
+        "Not being progressed for July": 28
+    },
   "series":["Schedule not received",
       "Not received, scheduled",
       "Received, not checked",
@@ -94,5 +106,5 @@ var cumulative_flow_data = {
       "Ready for publication",
       "Published",
       "Not being progressed for July"],
-    "x_axis":["May 01", "May 02", "May 03","May 04", "May 05", "May 08", "May 09", "May 10"]
+    "x_axis":["May 01", "May 02", "May 03","May 04", "May 05", "May 08", "May 09", "May 10", "May 11"]
     };
